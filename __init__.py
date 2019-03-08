@@ -1,0 +1,1 @@
+print("This project is using statistichell 0.0.1")
